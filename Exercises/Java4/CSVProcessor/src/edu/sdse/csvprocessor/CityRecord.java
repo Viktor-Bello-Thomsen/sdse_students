@@ -15,6 +15,5 @@ public class CityRecord {
 	public String toString() {
 		return "id: " + id + ", year: " + year + ", city: " + city + ", population: " + population;
 		
-		
 	}
 }
